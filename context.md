@@ -3,7 +3,7 @@
 ## Workspace
 - Repository: `RLE-Learn`
 - Branch: `main`
-- Files modified or created:
+- Files modified or created: 
   - `env/gridworld.py`
   - `agent/train.py`
   - `env/__init__.py`
