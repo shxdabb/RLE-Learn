@@ -90,4 +90,4 @@ Both scripts are self-contained and add the project root to `sys.path` when exec
 
 If you'd like, I can also:
 - add a link to this file in the top-level `README.md` (small patch), or
-- create a `requirements.txt` file listing common RL packages (e.g. `numpy`) and update the Dockerfile with a minimal build.
+- create a `requirements.txt` file listing common RL packages (e.g. `numpy`) and update the Dockerfile with a minimal build.  
