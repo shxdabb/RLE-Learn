@@ -17,7 +17,7 @@ Exploration vs Exploitation
 ▶️ How to run
 Run the environment demo:
 Shellpython3 env/gridworld.py``Show more lines
-Train the agent:
+Train the agent: 
 Shellpython3 agent/train.py``Show more lines
 🎯 Goal
 Help beginners understand how machines learn decisions using rewards.
